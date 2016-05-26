@@ -1,0 +1,14 @@
+FogBookz 4 Freshbooks
+Version 1.1
+
+FogBookz time interval integration with Freshbooks
+
+FogBookz 4 Freshbooks will save you time and money if you’re a company that uses Freshbooks.com for invoicing your employees time. FogBugz is an excellent way to track employees time spent working on specific cases. However, exporting that time into Freshbooks is just plain painful. 
+
+Not anymore. FogBookz is here to bridge that gap and make exporting and importing that time tracked in FogBugz, into Freshbooks, a fast easy process. 
+
+Using the power of FogBugz plugin technology, FogBookz adds the capability to administrator users to choose which time intervals tracked on cases are exported to Freshbooks; and to select which Freshbooks projects, tasks and employees each belong to. 
+
+For full details please visit http://www.bitbounce.ca/products/freshbooks/
+
+This version requires FogBugz 8.3.42 or higher.

@@ -1,0 +1,14 @@
+FogBookz 4 Quickbooks
+Version 1.0.0.17
+
+FogBookz time interval integration with QuickBooks
+
+FogBookz will save you time and money if you’re a company that uses QuickBooks for invoicing your employees time. FogBugz is an excellent way to track employees time spent working on specific cases. However, exporting that time into QuickBooks is just plain painful. 
+
+Not anymore. FogBookz is here to bridge that gap and make exporting and importing that time tracked in FogBugz, into QuickBooks, a fast easy process. 
+
+Using the power of FogBugz plugin technology, FogBookz adds the capability to administrator users to choose which time intervals tracked on cases are imported by QuickBooks; and to select which QuickBooks projects, employees and service items each belong to. 
+
+For full details please visit http://www.bitbounce.ca/fogbookz/
+
+This version requires FogBugz 8.0.32 or higher.

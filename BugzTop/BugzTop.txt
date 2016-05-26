@@ -1,0 +1,11 @@
+BugzTop
+Version 1.0.2.5
+
+Allows you to add html to the top of a case.
+
+This is a simple plugin that allows you to enter arbitrary html at the top of all cases. 
+
+Full information can be found here. 
+http://www.bitbounce.ca/products/bugztop/
+
+This version requires FogBugz 8.3.42 or higher.

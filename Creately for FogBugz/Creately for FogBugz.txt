@@ -1,0 +1,20 @@
+Creately for FogBugz
+Version 1.4.0.10148
+
+Add UML, Flowcharts, Wireframes / UI Mockups, Mindmaps and more to Wikis and Cases
+
+- Use diagrams and charts to quickly and clearly explain project requirements 
+- Add, review and update diagrams within Cases or Wiki pages 
+- Support for many diagrams types including flowcharts, wireframes, UI mockups, mindmaps, UML diagrams and more 
+- Easily draw diagrams using the fully interactive web interface 
+- Get started quickly with 100's of templates for various diagrams types 
+
+Go to http://www.youtube.com/watch?v=Sv3I3T_SmO4 to watch the demo video. 
+
+Creately is developed by Cinergix Pty Ltd, an Australian company that builds online diagram & flowchart collaboration software. 
+
+Install Help: https://creately.com/plugin/fogbugz/instructions/install 
+
+Plugin Pricing Info: http://creately.com/plugin/fogbugz 
+
+This version requires FogBugz 7.0 or higher.

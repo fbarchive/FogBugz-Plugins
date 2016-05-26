@@ -1,0 +1,38 @@
+Organizations
+Version 0.8.6.470
+
+Adds an organization field to Fogbugz cases.
+
+About Organizations: 
+
+Organizations is a very simple plugin that adds a hierarchal layer on top of projects in Fogbugz. In the same way that a project has a set of areas, an organization contains a set of projects. 
+
+An organization is very similar to the Fogbugz group. The reason this plugin doesn't simply add to the functionality of groups is because all projects in a Fogbugz group share the same user access permissions. This plugin does not enforce visibility or access permissions based on a users organization, and it will never breach any Fogbugz group security settings. So you may use Organizations to classify your projects, and Fogbugz groups to establish user permissions for them. 
+
+
+
+Plugin Compatibility: 
+
+Due to extensive use of Javascript for manipulating the bug display page, backward and forward compatibility of this plugin is not guaranteed. The organizations plugin is currently compatible with: 
+
+Version 8.6.50 (DB 786, Build 0) 
+
+
+
+Plugin Features: 
+
+- When creating a new case, a drop-down menu containing your organizations will appear before the project drop-down. The project drop-down gets sorted based on the selected organization, just like how the area drop-down is sorted based on project. 
+- Users can designate themselves as being part of a particular organization. 
+- You may filter by organization. 
+- A new case template system. These are text templates that can pre-populate your new case description field based on the selected organization of the case. 
+
+
+
+Configuring Organizations: 
+
+- Once you have the plugin installed, go to Admin -> Configure Organizations. 
+- Scroll down to 'Add an Organization' and add your desired organization names. 
+- Then go to 'Link a Project with an Organization', and pair all of your projects with their respective organizations. Note: If you don't link all of your projects with an organization, then the organizations drop-down menu will not appear! This is to keep projects from becoming inaccessible. 
+- You may now add new case templates for your organizations if you desire. 
+
+This version requires FogBugz 7.3 or higher.

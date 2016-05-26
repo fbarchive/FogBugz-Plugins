@@ -1,0 +1,8 @@
+No Email Replies Per Day
+Version 1.0.0.1
+
+Shows the number of emails responses made per day
+
+This plugin adds a new option to the "Extras" drop down menu which displays a HTML page of the number of email responses made per day historically.
+
+This version requires FogBugz 7.3 or higher.

@@ -1,0 +1,11 @@
+Custom Fields
+Version 1.2.7
+
+Allows administrators to add custom fields to cases
+
+If the case fields provided by FogBugz don't quite serve your needs, use the 
+Custom Fields Plugin to add a new one in a matter of minutes. The field can be any of several types including text, drop-down, and date/time. 
+
+Once the custom field is created, you'll be able to edit the new field in the case view, see a new column in the grid view, and even filter results by possible field values.
+
+This version requires FogBugz 8.3.42 or higher.

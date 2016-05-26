@@ -1,0 +1,10 @@
+Case Event Edit
+Version 1.1.1.28
+
+Enables editing of existing case events.
+
+You can now edit existing case events! Fix typos, modify bug descriptions, add new repro steps, and more! 
+
+All edits to every event are saved in your FogBugz case history, so you can make changes and fix mistakes without needing to worry about losing any important history.
+
+This version requires FogBugz 8.7.57 or higher.

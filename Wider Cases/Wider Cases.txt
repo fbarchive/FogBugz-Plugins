@@ -1,0 +1,10 @@
+Wider Cases
+Version 1.1
+
+Makes the individual case view wider than the default
+
+The FogBugz individual case view too narrow for you? This plugin will make it 25% wider so it better fills your wide-screen monitor. 
+
+Wider Cases shouldn't be used with FogBugz 7.3+ since it clashes with FogBugz 7.3's case resize ability.
+
+This version requires FogBugz 7.0 or higher.

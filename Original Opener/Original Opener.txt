@@ -1,0 +1,10 @@
+Original Opener
+Version 1.0.5
+
+Allows searching and filtering for the original opener of a case.
+
+When you work with the "opener" of a case in FogBugz, if the case has been closed and re-opened, this is taken to mean the *most recent* opener. Out of the box, you cannot search or filter for cases based on the first person to open them. 
+
+This plugin adds a sortable grid-column for cases' Original Opener as well as a search axis, "originallyopenedby:" and a filter option. Search works like the built-in "openedby:" axis: it does a sub-string match on the user's full name. This new axis also allows you to search for a person's numeric ID (ixPerson) by searching for originallyopenedby:"2" or originallyopenedby:"User 2". You can sort the Original Opener column by clicking its heading, or by putting 'orderby:"original opener"' in your search string.
+
+This version requires FogBugz 8.4.87 or higher.

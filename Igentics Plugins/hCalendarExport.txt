@@ -1,0 +1,6 @@
+hCalendarExport
+Version 1
+
+This plugin works with the Igentics.BugzExtension plugin to create an hCalendar feed from the schedule infomation. This can then be used with a tool such as http://h2vx.com/ics/ to produce a subscription that can be loaded into Outlook or Google Calendar. It's one-way only, you can't edit the items in Outlook but it's great for Project Management and Resourcing to be able to see who's due to work on what
+
+This version requires FogBugz 7.3 or higher.

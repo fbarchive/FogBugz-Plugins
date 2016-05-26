@@ -1,0 +1,12 @@
+Kanban Board
+Version 2.2
+
+A kanban board plugin for FogBugz.
+
+This plugin provides a Kanban board for FogBugz. 
+
+A Kanban board is useful for visualizing what cases are being worked on and where they are in your development process. 
+
+This plugin allows you to put cases in columns and assign them colors. This can be done via case editing or from the Kanban editor. While in the Kanban editor, cases can be dragged to change the order within a column or between columns. The editor's context menu allows easy adding or removing of cases and easy color changes.
+
+This version requires FogBugz 8.5.122 or higher.

@@ -1,0 +1,6 @@
+Milestone Management
+Version 1.0.0.1
+
+Moves the global milestone management from the project settings to the admin menu. This prevents the accidental creation of global releases in projects.
+
+This version requires FogBugz 7.0 or higher.

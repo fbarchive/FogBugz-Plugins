@@ -1,0 +1,16 @@
+Code Snippets
+Version 1.0.0.25
+
+Embed syntax-highlighted code snippets into wiki articles and bug events
+
+Adds the ability to embed syntax-highlighted code snippets into wiki articles, bug events, and Kiln code reviews. 
+
+When editing a case, just wrap your code snippet in [code] ... [/code] or <code> ... </code> tags and you're all set! 
+
+When editing a wiki article select Insert -> Code Snippet. 
+
+To create inline code snippets, just keep everything on a single line: <code>my inline snippet</code>. 
+
+Kiln (v2.2 and later) now supports code snippets as well! Just use the same tags as you would in FogBugz and everything should just work!
+
+This version requires FogBugz 8.2.22 or higher.

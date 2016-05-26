@@ -1,0 +1,8 @@
+Wiki Article Table of Contents
+Version 1.0.0.6
+
+Auto-generates a table of contents for wiki articles and provides the $toc$ template placeholder.
+
+Once this control is inserted into a wiki page, it automatically displays a hierarchical table of contents (toc) based on the relative size of the headers contained in wiki page content.
+
+This version requires FogBugz 8.0 or higher.

@@ -1,0 +1,8 @@
+User Group Filter
+Version 1.0.0.1
+
+Adds User Group filter and axes (UserGroup and ixUserGroup)
+
+Creates a case filter option for user groups, allowing you to view all cases assigned to any users that are members of a security group. Also adds search axes for the name and group id.
+
+This version requires FogBugz 7.3 or higher.

@@ -1,0 +1,6 @@
+Relative Time
+Version 1.1.5
+
+Adds grid view columns for displaying the relative date/time of an event, e.g. 2 hours ago.
+
+This version requires FogBugz 8.8.39 or higher.

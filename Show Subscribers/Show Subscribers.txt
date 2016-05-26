@@ -1,0 +1,10 @@
+Show Subscribers
+Version 1.0.0.1
+
+List the subscribers of case/article/discussion
+
+Lets you see all the subscribers of a case or a wiki article. 
+
+Source code can be found at: http://vvv444.googlepages.com/fogbugz
+
+This version requires FogBugz 7.3 or higher.

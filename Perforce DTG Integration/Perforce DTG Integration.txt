@@ -1,0 +1,14 @@
+Perforce DTG Integration
+Version 1.0.3
+
+Allows integration with Perforce through the Perforce Defect Tracking Gateway.
+
+Allows deep integration between Perforce and FogBugz by mirroring FogBugz cases as Perforce Jobs. Using this plugin you can: 
+
+* View FogBugz case details in Perforce 
+* Easily apply fixes to cases using Perforce without having to remember the case number 
+* See changelists in FogBugz and view them using P4Web 
+
+This plugin requires installation of the Perforce Defect Tracking Gateway (p4dtg).
+
+This version requires FogBugz 7.3 or higher.

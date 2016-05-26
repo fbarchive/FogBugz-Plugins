@@ -1,0 +1,8 @@
+FogBugz Parature Bridge
+Version 1.0.0.1
+
+A Fogbugz Plugin to update Parature when updates occured to linked bugz.
+
+Our customer support personnel use a product called Parature to manage our incoming support cases. Development prefers Fogbugz, and we don't want Support in there, messing with our Bugz. So, we built a bridge between the two systems, and query for Parature cases that need to be updated when our referenced Bugz are edited.
+
+This version requires FogBugz 7.3 or higher.

@@ -1,0 +1,6 @@
+Case Report
+Version 1.1
+
+Creates a full case report for each FogBugz Case that is included in the current filter. The report can be printed or saved to a .pdf document using the available browser options.
+
+This version requires FogBugz 7.3 or higher.

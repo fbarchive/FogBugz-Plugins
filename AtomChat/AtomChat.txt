@@ -1,0 +1,18 @@
+AtomChat
+Version 1
+
+AtomChat adds real-time chat to your FogBugz site. Your developers won't waste time emailing each other. 
+
+AtomChat integrates seamlessly with your FogBugz site and adds dozens of new features including: 
+
+- Instant text chat 
+- Voice/video chat 
+- Collaborative document sharing 
+- Screen-sharing 
+- File transfer and a lot more! 
+
+Simply visit http://www.atomchat.com and register to start using AtomChat with your site! 
+
+Installation takes only seconds and works out-of-the-box for all your developers.
+
+This version requires FogBugz 7.3 or higher.

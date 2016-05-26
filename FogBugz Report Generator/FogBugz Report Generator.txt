@@ -1,0 +1,12 @@
+FogBugz Report Generator
+Version 1.2.0.4
+
+This plugin automates status report generation for FogBugz projects. Given a date range, the report lists all of the cases worked on (and time spent on each) for each member on the project.
+
+This Plugin generates a status report in the Wiki based on time logged against cases and planned cases. 
+
+In order to generate a report for a project you must first visit the configuration page for the Plugin (My Settings -> Status Report Generator) and specify a project, team name, cycle/week numbers, and which Wiki/WikiPage for the first status report. 
+
+A status report is generated via Extras -> Status Report Generator which generates a wiki page (a sub-page of the WikiPage selected on the configuration page).
+
+This version requires FogBugz 7.3 or higher.

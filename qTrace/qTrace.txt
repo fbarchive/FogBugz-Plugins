@@ -1,0 +1,36 @@
+qTrace
+Version 1.0.0.1
+
+Automatically Documents Intelligent Screenshots of a Defect with Seamless Submission to FogBugz
+
+1. qTrace - The Screen Capture Tool with Intelligence 
+
+qTrace is an innovative screen capture tool that helps testers easily submit clear and accurate defect tickets. 
+•	Captures both screen shots and users' actions 
+•	Intelligently generates step-by-step narration of the test scenario 
+•	Generates a stand-alone document or submits a case directly to FogBugz 
+•	Available as a free and commercial edition 
+
+2. Flexible recording modes - Take a snapshot or record every screen and step 
+
+Testers can take a quick snapshot of a single screen, record a single defect flow, or record an entire test session. qTrace also generates a text narration of the test steps that can be used as the defect description. 
+
+3. Annotate – Edit a little or a lot 
+
+Testers can modify and annotate the captured screenshots and decide how much or how little additional detail is needed. Annotation tools let testers highlight screen areas, add callout text, crop portion of the screen, and blur out sensitive information. 
+
+4. Integrated – Submit tickets directly to FogBugz 
+
+qTrace supports both on-demand and on-premise versions of FogBugz. This seamless integration between qTrace and FogBugz allows testers to configure which fields they want to submit with a case, specify default values for fields and enforce new-case workflow rules (enabled via this plugin). 
+
+5. So what does it cost? 
+
+qTrace is available both as a Free edition as well as a $49 Pro edition. 
+•	The Free edition is great for occasional users 
+•	Frequent users would benefit by upgrading to the Pro edition 
+
+As a Fog Creek Software's customer, you can use the promotion code FOGCR33K to receive a $10 discount. 
+
+qTrace can be downloaded from http://www.qasymphony.com
+
+This version requires FogBugz 7.3 or higher.

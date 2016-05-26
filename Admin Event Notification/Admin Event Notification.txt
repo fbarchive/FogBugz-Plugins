@@ -1,0 +1,16 @@
+Admin Event Notification
+Version 1.1
+
+Forward admin notifications to e-mails and/or cases
+
+Allow for better monitoring of your FogBugz install, especially if the admin account is not used on a regular basis. 
+
+This plugin has the following functions: 
+
+- Send an email when an admin notification is triggered in FogBugz 
+- Send an email when an admin notification is resolved in FogBugz (manually or automatically resolved) 
+- Create a case when an admin notification is triggered in FogBugz; the case will be updated when the admin notification is resolved (manually or automatically resolved) 
+
+Each of these options can be individually enabled or disabled in the plugin configuration
+
+This version requires FogBugz 8.6.50 or higher.

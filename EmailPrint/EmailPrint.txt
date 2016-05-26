@@ -1,0 +1,8 @@
+EmailPrint
+Version 1.0.0.6
+
+Allows you to print individual emails from bug events.
+
+This plugin adds a "Print Email" link in the bugevent header when it's classified as an email in FogBugz. The link will provide a clean view of the email for printing.
+
+This version requires FogBugz 8.2.22 or higher.

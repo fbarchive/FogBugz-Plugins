@@ -1,0 +1,12 @@
+Tidy Case Events
+Version 3.4
+
+Hides subtext-only "Edited by..." events and adds a link on the left panel to restore them. Due to its surprising nature, this must be enabled on a per-user basis via the User Options page.
+
+This plugin is inspired by the mentality that, while case audit trails are important, some case events are generally inconsequential in the scope of the audit history. The Tidy Case Events plugin is not meant for everyone, but aims to provide a nice enhancement for users of FogBugz who follow certain use patterns. 
+
+Tidy Case Events will automatically hide all case events of type "Edited by..." which contain no attachments or text. Hidden events can be temporarily restored by clicking on a link on the left panel of the case view page. 
+
+Tidy Case Events can be toggled on a per-user basis with a default of "Off." Administrators may also bulk toggle Tidy Case Events via the plugin configuration page.
+
+This version requires FogBugz 8.7.57 or higher.

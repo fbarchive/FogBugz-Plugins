@@ -1,0 +1,28 @@
+TemplateNotifications
+Version 1.0.0.5
+
+Sends templated-based notification mails
+
+Allows creating template-based email notifications for case actions. Templates can contain special keywords for Fogbugz fields that will be substituted for the real values. Notifications can be configured per project and per action. 
+
+Fields from the custom fields plugin are also supported. 
+
+Does not affect in any way the "regular" Fogbugz email notifications. 
+To be able to receive notifications users must individually enable "Template Notifications" from the options screen. 
+
+Note: Currently no emails are sent when cases are entered via public submission page or by community users. 
+
+If running Fogbugz 8.3-8.6 this plugin works out of the box. 
+
+UPGRADE WARNING (only for Fogbugz 8.7 or later): 
+Due to a change in the way that plugins are loaded in Fogbugz 8.7 running the plugin under this version requires some changes to your installation, specifically it requires taking the Custom Fields plugin out of the FogBugz appdomain. To do so: 
+
+1. Find LicensedManifest.csv in C:\path\to\fogbugz\Plugins 
+2. Edit it and find the line for Custom Fields like this: "customfields@fogcreek.com,1.2.6.0" 
+3. Change the version 1.2.6.0 to something lower, e.g. 1.2.5.0 
+4. Go to Admin -> Plugins in FogBugz and disable and re-enable Custom Fields 
+5. Verify that it's out of the appdomain by hovering over the name in the list. The tooltip should give you the ixPlugin value, but not say "In FogBugz AppDomain" 
+
+After this the TemplateNotifications plugin should work. 
+
+This version requires FogBugz 8.3.42 or higher.

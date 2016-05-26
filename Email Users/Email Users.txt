@@ -1,0 +1,8 @@
+Email Users
+Version 1.0.1.1
+
+Adds an 'Email All Users' option to the Admin menu for sending broadcast emails to all FogBugz users.
+
+Allows FogBugz administrators to send email announcements to all normal users and administrators.
+
+This version requires FogBugz 8.0 or higher.

@@ -1,0 +1,43 @@
+Project Groups
+Version 1.0.0.1
+
+Organize your projects into groups.
+
+FogBugz Project Groups 
+====================== 
+This plugin enhances the project management functionality of FogBugz. It adds the ability to organize each 
+FogBugz project into one or more Project Groups. 
+
+For example, you could create a Project Group for each of your clients and add the relevant projects to each of them. 
+
+Installation 
+=========== 
+Use the "upload plugin" button on the FogBugz plug-in page and select the ZIP file you downloaded from the plug-in gallery. 
+
+IMPORTANT: You have to upload the entire zip file for the plug-in to work. 
+
+Security 
+======== 
+Only site administrators can create Project Groups or modify their associations with projects. 
+
+Features 
+===== 
+* Project Groups Administration Screen enables you to create, delete, and modify the projects assigned to each project group. (Accessible from the Admin dashboard, or the configure button on the FogBugz plugin screen.) 
+* The Project Edit Screen has been enhanced with a new section for managing the Project Groups associated with each project. 
+* Filtering by project groups is fully supported. 
+* Searching by Project groups is also supported via the ProjectGroup or ProjectGroups search axis. 
+
+Example Search Axis Usage 
+ProjectGroup: "Group1" 
+ProjectGroups: "Group1" 
+
+Note: The search axis label is NOT case sensitive. 
+
+
+Credits 
+------- 
+This plugin was created by John Fuex for Fog Creek Software. 
+Twitter: @johnFx 
+Blog: http://improvingSoftware.com 
+
+This version requires FogBugz 8.4.87 or higher.

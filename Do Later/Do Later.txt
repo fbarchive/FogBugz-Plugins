@@ -1,0 +1,11 @@
+Do Later
+Version 1.2.6
+
+While editing a case, allows a user to schedule a reminder notification or other future event.
+
+Do Later allows you to set up two simple types of events within FogBugz: 
+
+Notify Me - This will send a simple notification email to you at the time you specify, or more simply put, “a reminder.” 
+Activate & Assign To Me - At an appointed time, FogBugz will make sure the case is opened, activated, and assigned to you. You'll also receive a notification if you have them enabled.
+
+This version requires FogBugz 8.4.87 or higher.

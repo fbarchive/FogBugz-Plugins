@@ -1,0 +1,67 @@
+DiscussPlus
+Version 1.0.9
+
+Discuss Plus - Enhanced Discussion Board (Sponsored by: GROUPWARE, Inc.)
+
+Discuss Plus Plugin 
+=================== 
+This plug-in enhances the discussion features of FogBugz 7, by adding some additional capabilities and layout options. 
+
+It is common for discussion topics to initiate FogBugz cases, for example when a customer complains about a bug or requests a feature. With the functionality of a standard Fogbugz installation, it is easy to build and link a case from a discussion topic, but support is limited for allowing the person who posted the message to keep track of the progress on the spawned case, especially if they are an anonymous or community user. This plug-in attempts to solve that. 
+
+With this plug-in, the user can see the current status of the case and how recently it has been updated, without the necessity of the person working the case to continue to post replies in the thread to keep the user informed. 
+
+Note: The ability to view case information for a post was always available to logged in users, this just expands that capability to anonymous and community users. 
+
+There are also a number of features related to improving the display and searchability of the discussion forum. See the "Features" section of this document for a full list of capabilities associated with this plug-in. 
+
+Installation 
+=========== 
+(1) Use the upload plugin button on the FogBugz plugin page and select the DiscussPlus.zip file you downloaded from the plugin gallery. 
+
+IMPORTANT: You have to upload the entire zip file for the plugin to work. 
+
+NOTE: To update from earlier versions, just upload the newest version, without uninstalling the current version. Uninstalling the plugin will delete all view counter data. 
+
+(2) Have a site administrator go to the plugin configuration page from the Admin..Plugins FogBugz menu, 
+then clicking the congfigure link next to Discuss Plus 
+(3) Choose a title for the case details box like "Issue is being tracked" 
+
+Optional: for every discussion group you wish to use with the new grid view: 
+(3) Plugin configuration page will display some HTML customized for your installation. Copy that HTML to the clipboard. 
+(4) Paste the HTML into the "Sidebar" section of each discussion group that you wish to use this plugin with. 
+so makes it easier to find relevant posts in a sortable grid view by popularity (view count), author, last update, number of comments and related case type. 
+
+Features 
+======== 
+Discuss Plus enhances FogBugz discussion groups as follows: 
+
+* Introduces a column sortable grid view for the topic list 
+* New grid view shows additional columns for View Count, Last Mod Date, and Spawned case icons (if any). 
+* Adds a view counter that tracks and displays how often a topic has been viewed. 
+* Each discussion post now shows a collapsible summary box of spawned case details 
+* Plugin permission settings allow to control which user types are allowed to see spawned case details. 
+
+
+Security Warning (IMPORTANT) 
+============================ 
+This plugin allows to expose related case information of discussion posts to public and community users, that they might not 
+otherwise have permission to see. 
+
+Please carefully choose permission options in the plugin configuration AND TEST your configuration under different user scenarios (public, community, normal users, etc.) before enabling this plugin 
+in discussion groups for production. 
+
+
+Disclaimer 
+========== 
+The Discuss Plus plugin is developed by: 
+John Fuex 
+john.fuex@gmail.com 
+http://improvingsoftware.com 
+
+It is designed and sponsored by: 
+GROUPWARE, Inc. - http://www.epdf.com 
+
+This plugin is provided "AS IS", without explicit or implicit warranties.
+
+This version requires FogBugz 7.3 or higher.

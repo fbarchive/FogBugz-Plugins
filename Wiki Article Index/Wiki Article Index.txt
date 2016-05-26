@@ -1,0 +1,10 @@
+Wiki Article Index
+Version 1.7
+
+An insertable article index for your wikis.
+
+This plugin adds a widget that you can insert into a FogBugz wiki to display an article index. 
+
+It is very similar to the Fog Creek "Wiki Page Table of Contents" plugin, except that it creates a table of contents listing all articles in the wiki, instead of a listing of headers within the same wiki article.
+
+This version requires FogBugz 8.4.87 or higher.

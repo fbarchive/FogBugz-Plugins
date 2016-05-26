@@ -1,0 +1,18 @@
+Dependencies
+Version 1.0.0.12
+
+Adds dependency support for cases
+
+The FogBugz Dependency Plugin adds functionality to FogBugz to enable dependencies between cases: 
+
+• Dependencies between cases can be added via the case view 
+• Cases can be filtered on the number of cases they are (directly) blocking 
+• Cases can be filtered on the number of unclosed dependencies 
+• Cases can be automatically reopened if closed with unmet dependencies 
+• Cases can be automatically reactivated when all dependencies are closed 
+
+Quarantainenet has released the Dependency Plugin under a BSD license. 
+
+In the ZIP-file, you'll find end user and developer manuals, as well as the full Visual Studio C# project.
+
+This version requires FogBugz 7.3 or higher.

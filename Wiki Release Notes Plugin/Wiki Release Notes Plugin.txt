@@ -1,0 +1,14 @@
+Wiki Release Notes Plugin
+Version 1
+
+Show Release Notes in Wiki Page
+
+Publishes the release notes for a selected milestone into a Wiki article. 
+
+Uses H2 for the milestone title, and H3 for the release notes. 
+
+Optionally allows you to include an entry for cases without Milestones. 
+
+Does not filter by status.
+
+This version requires FogBugz 7.3 or higher.

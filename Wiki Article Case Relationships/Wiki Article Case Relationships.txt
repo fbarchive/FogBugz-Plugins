@@ -1,0 +1,18 @@
+Wiki Article: Case Relationships
+Version 3.0.1
+
+Allows cases to be easily tied to wiki articles.
+
+This plugin allows you to conveniently tie cases and wiki articles together. 
+
+From any FogBugz case, you can add a new wiki article by clicking on the "New Article" link. The newly created wiki article is then tied to the case and is listed under “Related articles” for easy access. 
+
+From a wiki article, you can create new FogBugz cases, view all FogBugz cases that are currently linked to the article, or attach an existing FogBugz case to the article. You can also detach a related FogBugz case from the wiki article any time. 
+
+Using the "Filtered Case List" wikiblock, you can embed a dynamically filtered list of FogBugz cases anywhere within your wiki article content. 
+
+For more information about this plugin, 
+visit our Knowledge Base at 
+https://devmental.fogbugz.com/default.asp?W3 
+
+This version requires FogBugz 8.0.32 or higher.

@@ -1,0 +1,8 @@
+BugMonkey
+Version 2.0.1.16
+
+Users can input any arbitrary javascript and css that you want to run on any FogBugz page.
+
+Create and control customizations for your FogBugz install by writing JavaScript and CSS to run on any FogBugz page or for a set of FogBugz users.
+
+This version requires FogBugz 8.2.22 or higher.

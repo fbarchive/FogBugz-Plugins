@@ -1,0 +1,15 @@
+FB ScratchOut
+Version 2.2.7
+
+A Fogbugz plugin for deprecating bug events.
+
+FogBugz Scratchout Plug-in 
+=========================== 
+The purpose of this plug-in is to allow you to visibly deprecate events in the case history when using FogBugz without permanently deleting them. 
+
+The most common scenarios where this might be useful are: 
+* History entries added to the wrong case. You no longer need to clutter the case further with a second "ignore that" entry. 
+* Clearly marking discussions that are no longer relevant because the resolution took a left turn and went in a different direction. This can really help testers quickly ignore irrelevant material when reading through the case to see what was changed. 
+* Any other mistakes or reasons that make you wish FB had a delete button. 
+
+This version requires FogBugz 8.3.42 or higher.

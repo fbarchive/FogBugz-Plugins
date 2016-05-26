@@ -1,0 +1,6 @@
+Wiki Local Index
+Version 1.0.0.1
+
+This plugin creates a nested article index based on the wiki hierarchy. The index shows all articles beneath the current page and one level of articles beneath those.
+
+This version requires FogBugz 7.3 or higher.

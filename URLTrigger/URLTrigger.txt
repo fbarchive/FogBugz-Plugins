@@ -1,0 +1,10 @@
+URLTrigger
+Version 1.2.2
+
+Allows FogBugz events to trigger HTTP requests.
+
+The URLTrigger Plugin allows you to specify a request to be sent to a specific URL when events occur in FogBugz. To create a URLTrigger, select one or more events that your trigger will respond to, then add values to the URL querystring using a list of variables presented by the plugin. 
+
+More details about this plugin can be found at http://help.fogcreek.com/7755/
+
+This version requires FogBugz 8.0.32 or higher.

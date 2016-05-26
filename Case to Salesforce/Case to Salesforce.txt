@@ -1,0 +1,12 @@
+Case to Salesforce
+Version 1.0.0.6
+
+For cases created by incoming emails, create a task in Salesforce for the associated lead or contact that points back to the Fogbugz case.
+
+Provides very simple integration between Salesforce and Fogbugz. 
+
+Incoming emails to Fogbugz create tasks in Salesforce. The task is associated with the lead or contact that has the same email address as the incoming email. If no email address match is found, no task is made. 
+
+The task includes a direct link to the Fogbugz case and the original email. Further changes to the Fogbugz case are not recorded in Salesforce. You have to click through to the Fogbugz case to see that!
+
+This version requires FogBugz 7.3 or higher.

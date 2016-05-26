@@ -1,0 +1,12 @@
+FogBugzTimeSheetPlugin
+version 1.1
+
+Provides extended reports from the WorkingOn timesheet information
+
+This plugin uses the information from the "WorkingOn" timeinterval and creates two reports - TimeSheetReport showing hours by person per project. 
+StatusReport - Showing BugEvents created in selected period. 
+
+Documentation is available on our help site: 
+http://help.fogcreek.com/8907/timesheet-reports#fogbugztimesheet
+
+This version requires FogBugz 7.3 or higher.

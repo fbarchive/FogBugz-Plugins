@@ -1,0 +1,12 @@
+Workflow
+Version 1.3.2.3
+
+Allows customization of the FogBugz case workflow.
+
+Out-of-the-box, FogBugz provides an intentionally simple workflow for case resolution and closure. We have four category types, each with a single "Active" status and a few different "Resolved" statuses. As a rule, cases are automatically assigned back to the case opener upon resolution. We use this simple workflow at Fog Creek Software, but recognize that some customers would like to tweak their case workflow to suit their unique work processes. 
+
+The Custom Workflow Plugin is designed to provide you with an exceptional level of flexibility. You can start by configuring existing case categories, or creating brand new ones. 
+
+For each category, you can then specify a set of active and resolved statuses. Lastly, you can create a FogBugz "Workflow," which we formally define as "a set of rules for case assignment based on case status." Any number of Workflows can be created, and each FogBugz project can be assigned an individual Workflow that matches the team's working style.
+
+This version requires FogBugz 8.6.50 or higher.

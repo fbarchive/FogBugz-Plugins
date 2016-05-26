@@ -1,0 +1,33 @@
+Fogbridge for Salesforce
+Version 1.2.5.18
+
+Synchronize Fogbugz and Salesforce
+
+FogBridge for Salesforce is a bi-directional integration solution between FogBugz and Salesforce that keeps issues synced with any salesforce object. 
+
+
+Features: 
+
+Sync Any Salesforce Object. 
+Sync existing cases or any object in Salesforce to FogBugz. 
+Save new cases in FogBugz to Salesforce. 
+Sync existing cases in FogBugz to Salesforce Cases. 
+Save New cases in Salesforce to FogBugz. 
+Automatically sync changes from FogBugz to Salesforce and vice-versa. 
+Set FogBugz Project, Milestone and Area inside of Salesforce when creating a new case. 
+Automatically sync existing FogBugz data with your new and existing Salesforce cases. 
+Link automatically and directly from FogBugz to Salesforce Account, Contacts, Cases, User, etc. 
+User mapping between FogBugz and Salesforce. 
+Status mapping between FogBugz and Salesforce. 
+Custom Fields mapping between FogBugz and Salesforce. 
+Choose the fields to show in the Save to Salesforce window. 
+Syncing comments improved. 
+Toggling of Bi-Directional syncing 
+
+
+Please Contact Software Allies for License, Installation or Configuration instructions. 
+
+Contact us at: http://www.softwareallies.com/solutions/fogbridge/try-fogbridge-now 
+For documentation please visit us: https://softwareallies.jira.com/wiki/display/WIKI/1%29+Getting+Started
+
+This version requires FogBugz 7.3 or higher.

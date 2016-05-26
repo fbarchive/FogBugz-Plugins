@@ -1,0 +1,12 @@
+Time Interval Example
+Version 0.2.0.1
+
+Adds a comment field for time intervals added via the Working On drop-down
+
+*Note:* This plugin was written as an example to assist a customer. It works as designed, but the scope is limited. If you would like to extend it, the source is available on developers.kilnhg.com: http://bit.ly/TimeIntervalComments 
+
+This plugin allows you to put a comment on each time interval in FogBugz. It adds a [comment] link in the timesheet editor. Clicking it brings up a dialog where you can enter a note describing what you did for the time interval. There is currently no additional interface for viewing the comments. 
+
+The plugin uses some javascript hackery to modify the timesheet editor since there is no plugin interface available to change its functionality. As such, it works with FogBugz 8.7, has not been tested with 8.8 and may break with changes in the DOM and internal javascript in FogBugz. 
+
+This version requires FogBugz 8.0 or higher.

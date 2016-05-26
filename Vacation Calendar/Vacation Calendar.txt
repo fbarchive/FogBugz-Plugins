@@ -1,0 +1,8 @@
+Vacation Calendar
+Version 1.0.0.1
+
+A Calendar that displays the working schedule for a given month
+
+A Vacation Calendar that shows Group Holidays as well as individual holidays for the purposes of evaluating who's in the office.
+
+This version requires FogBugz 7.3 or higher.

@@ -1,0 +1,10 @@
+Wiki Comments
+Version 1.0.13
+
+Add commenting functionality to wiki articles.
+
+Wiki Comments integrates with the FogBugz 8 Wiki to provide a lightweight commenting feature for wiki articles. 
+
+Inserting Wiki Comments into an article provides a mechanism for readers to share their thoughts and have discussions without needing to edit the article itself.
+
+This version requires FogBugz 8.0.32 or higher.

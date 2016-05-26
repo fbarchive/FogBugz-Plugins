@@ -1,0 +1,16 @@
+Community Case List
+Version 1.0.1.5
+
+Allows community users to view public cases of projects belonging to a common group with public submission enabled
+
+Provides a limited case list to community users via the "Case Status" link, and simple management of case tickets. 
+
+For a project to become available for community users, it has to have public submission activated and belong to a group to which the communiy user has been granted at least read access. When the community user clicks on the "Case Status" link, he will see a list of projects available for listing above the ticket entry dialog. 
+
+When clicking one of these projects, the community user is presented with a full-width case list showing all cases in the projects which have a ticket. Cases without tickets are never shown in this list. The information provided to the community user in the list is a little bit more than what the public user can see with the ticket: the list shows the category, the case ID, the area, the title, the version field, the priority and a simplified status (open/resolved/closed) grouped by milestone and ordered by date (newest first), priority and case number. All cases are linked and displayed via their short ticket (so that the normal "public case view" is triggered in FogBugz). 
+
+When a community user views a case using a ticket in the list, he will have the project name (as link going back to the list) and the milestone name instead of the "submitted" message shown otherwise. This allows simple navigation back to the list. 
+
+The plugin also adds simple ticket management to the case view for normal users. In the left pane of the case display, the current visibility of the case is displayed; "Public" if the case has a ticket and "Private" otherwise. When editing a case, users can choose to create or delete tickets. Note that deleting a ticket and re-creating it for the same case will not yield the old ticket, rendering old tickets invalid.
+
+This version requires FogBugz 8.0.32 or higher.

@@ -1,0 +1,8 @@
+Notify
+Version 1.0.1.7
+
+Adds a 'Notify More Users' field on case edits, allowing you to send changes and an edit message to more users.
+
+Traditionally, notification messages about changes only go to the assignee of the case and any subscribers. The Notify plugin allows the editor to notify any other FogBugz user of the change.
+
+This version requires FogBugz 8.2.22 or higher.

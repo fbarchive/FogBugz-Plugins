@@ -1,0 +1,8 @@
+Kiln Lock Down
+Version 1.2.1
+
+Prevents access to Kiln for those who don't need it.
+
+Basically, you configure who can and cannot see the 'Kiln' tab at the top of the fogbugz master page. It doesn't have any logic to lookup repository access. 
+
+This version requires FogBugz 7.3 or higher.

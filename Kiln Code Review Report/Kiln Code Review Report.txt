@@ -1,0 +1,6 @@
+Kiln Code Review Report
+Version 1.1
+
+Creates a full code review report, containing an individual report for each 'code review' included in the current FogBugz filter. The events, comments recorded for each code review are listed in chronological order. Any replies to each comment are nested under the pertinent comment.
+
+This version requires FogBugz 7.3 or higher.

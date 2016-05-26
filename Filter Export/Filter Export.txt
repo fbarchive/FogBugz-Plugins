@@ -1,0 +1,8 @@
+Filter Export
+Version 2.0.0.3
+
+Export the cases matching your current filter to a CSV file.
+
+View a list of FogBugz cases offline by downloading the contents of the current case list filter in a MS Excel-compatible format (.CSV).
+
+This version requires FogBugz 8.2.22 or higher.

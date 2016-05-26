@@ -1,0 +1,6 @@
+ProjectExtension
+Version 1
+
+This plugin adds a new field into the create project form to allow you to select areas to automatically create. The list of areas is limited to the ones I've added for our use but it makes it quicker to setup. I can provide the source for this module if required so you can change it to your own areas. The areas included are : INTERNAL, Account Management, Back End Development, Consultancy, Front End Development, Graphic Design, Setup and Configuration, Specification and Analysis, Testing and QA and Training and Documentation
+
+This version requires FogBugz 7.3 or higher.

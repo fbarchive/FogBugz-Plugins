@@ -1,0 +1,8 @@
+ClarkKent
+Version 1.1.3
+
+The Superman of FogBugz time reporting.
+
+Simple time reporting of time spent against FogBugz cases.
+
+This version requires FogBugz 8.4.87 or higher.

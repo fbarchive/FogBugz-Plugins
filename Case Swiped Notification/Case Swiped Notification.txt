@@ -1,0 +1,10 @@
+Case Swiped Notification
+Version 1.1.2
+
+Notifies a user when a case has been swiped from them. 
+
+Sometimes cases are reassigned to other users, but the original user it was assigned to isn't aware that the case has been reassigned, and this can lead to duplication of effort. To help prevent this, the plugin sends an email notification to the user it was originally assigned to when the case is reassigned. 
+
+After the plugin is installed, a user can enable the plugin for himself by going to My Settings -> Options, and setting Case Swipe Notification Plugin to "On". 
+
+This version requires FogBugz 8.5.122 or higher.

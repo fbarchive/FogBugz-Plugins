@@ -1,0 +1,8 @@
+Pretty Print
+Version 1
+
+Displays a grid of results in a nice prinatable format.
+
+Pretty print allows to print a nicely formatted view that shows in the current grid or list view. This result set may be from a predefined filter or a search result.
+
+This version requires FogBugz 7.3 or higher.

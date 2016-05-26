@@ -1,0 +1,6 @@
+BugzExtension
+Version 1
+
+This plugin extends the Bug details by allowing you to add time intervals (from 30 mins up to whatever you want) against a bug. I wrote this plugin because we needed to be able to schedule when developers were going to work on tasks rather than just give them a deadlin.
+
+This version requires FogBugz 7.3 or higher.

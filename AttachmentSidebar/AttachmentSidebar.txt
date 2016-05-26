@@ -1,0 +1,8 @@
+AttachmentSidebar
+Version 1.0.2
+
+Lists a case's attachments on the left side of the case.
+
+Adds a sidebar to cases which lists and links to all of the attachments within the case.
+
+This version requires FogBugz 8.4.87 or higher.

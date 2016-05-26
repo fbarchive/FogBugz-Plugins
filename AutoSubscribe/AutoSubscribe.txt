@@ -1,0 +1,10 @@
+AutoSubscribe
+Version 1.0.4
+
+You can have FogBugz auto subscribe you to new cases, wikis, and discussion topics.
+
+Allows you to have FogBugz automatically subscribe you to new cases in any project, or new discussion topics in any discuss group, or any wiki pages in any wiki. It also allows you to have FogBugz to subscribe you to ANY item (case, wiki, discussion) that you edit. 
+
+The plugin creates a new menu item called "Subscribe" under "My Settings".
+
+This version requires FogBugz 7.3 or higher.

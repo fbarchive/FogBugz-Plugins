@@ -1,0 +1,14 @@
+Case Event Merge
+Version 1.1
+
+Display the case events of a duplicate in the original case
+
+The Case Event Merge plugin adds the functionality to display the case events of a duplicate case in the original case. 
+
+When a case is marked as Resolved (Duplicate), the edit screen has an extra checkbox “show in other case” to indicate that you want the case events of this case displayed in the original case. 
+
+Duplicate cases are often the result of an e-mail conversation with a customer. When you use this plugin to merge your cases, you can close the duplicate case and reply to the e-mail from the original case, regardless of the case the e-mail was originally received in. The reply will also be archived in the original case, effectively redirecting the conversation. 
+
+This plugin will not copy, move or delete any case event. It will only display the merged events in the original case. A mistake can be easily corrected: just uncheck the checkbox (removing the events from the original case) or correct the duplicate case number (events will now be displayed in the “new” original case).
+
+This version requires FogBugz 8.6.50 or higher.

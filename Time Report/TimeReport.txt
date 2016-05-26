@@ -1,0 +1,10 @@
+TimeReport
+Version 1.14.23.30
+
+Provides a report of user's time by case.
+
+Provides a rich time reporting interface for reviewing time logs historically, generating time reports against custom filtering criteria, and optionally managing weekly time cards. 
+
+A License is required. To apply for a free alpha testing license, contact fogbugz-plugin-support@dimagi.com .
+
+This version requires FogBugz 7.3 or higher.

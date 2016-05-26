@@ -1,0 +1,12 @@
+Project Backlog
+Version 1.3.0.13
+
+Maintain an Agile/Scrum backlog of cases for each project
+
+The Project Backlog (often called the "Product Backlog") is central to Scrum and Agile project management practices. It's essentially a feature wish list sorted by order of implementation. 
+
+The Project Backlog Plugin allows you to manage a backlog without ever leaving the FogBugz grid view. You can assign a case an order in the backlog just by clicking on the case's "Backlog" column, and when the grid view is sorted by Backlog, a set of arrow controls appear allowing you to move cases up or down in the order with the click of a mouse. 
+
+After you've installed the Project Backlog plugin, just add the "Project Backlog" column when you're looking at the grid view ("List Cases"), and then click on that column's header to sort things by their backlog value.
+
+This version requires FogBugz 7.3 or higher.

@@ -1,0 +1,6 @@
+AddSubscribers
+Version 1.0.0.9
+
+Allows regular fogbugz users to subscribe another user to a case.
+
+This version requires FogBugz 7.3 or higher.

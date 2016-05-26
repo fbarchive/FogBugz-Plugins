@@ -1,0 +1,8 @@
+BugRank
+Version 1.0.0.2
+
+Simple plugin that allows you to enter a bug Urgency and Importance. A Rank is then given based on their multiplied value.
+
+Bug Columns are added for display and sorting purposes.
+
+This version requires FogBugz 7.3 or higher.
